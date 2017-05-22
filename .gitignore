@@ -263,3 +263,4 @@ vs/src/Saber.Shed.CTB.Data/Migrations/20170326200325_AddReallocation.cs
 *.enc
 *.fixio0
 *.filters
+analyse.txt
